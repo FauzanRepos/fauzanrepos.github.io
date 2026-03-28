@@ -27,7 +27,7 @@ engine.navigate(to: .settings)       // guarded (runs middleware)
 
 ## Documentation
 
-- **Live docs (latest):** [fauzanrepos.github.io](https://fauzanrepos.github.io/#/v0.2.0/)
+- **Latest:** [v0.3.1](/v0.3.1/)
 - **Repo link:** [github.com/FauzanRepos/SwAN](https://github.com/FauzanRepos/SwAN)
 
 ## Requirements
